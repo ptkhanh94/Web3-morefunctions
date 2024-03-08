@@ -1,0 +1,23 @@
+{
+  "name": "web3-morefunctions",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ptkhanh94/Web3-morefunctions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptkhanh94/Web3-morefunctions.gitt"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-6th": "^1.0.2",
+    "get-data-4th": "^1.0.3",
+    "simple-prompts-web3": "^1.0.1",
+    "urlbitbucket-to-object": "^1.0.1"
+  }
+}
