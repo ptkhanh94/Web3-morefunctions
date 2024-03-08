@@ -1,11 +1,11 @@
 {
   "name": "web3-morefunctions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "homepage": "https://github.com/ptkhanh94/Web3-morefunctions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ptkhanh94/Web3-morefunctions.gitt"
+    "url": "https://github.com/ptkhanh94/Web3-morefunctions.git"
   },
   "main": "index.js",
   "scripts": {
